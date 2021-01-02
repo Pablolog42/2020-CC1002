@@ -1,0 +1,9 @@
+jperez,mercado1,13
+cgonzalez,feria2,10
+jperez,cafeteria3,15
+rmunoz,feria2,10
+rmunoz,tienda2,11
+aruiz,cafeteria3,15
+rmunoz,mercado1,13
+jperez,tienda2,11
+jrad,asd,22

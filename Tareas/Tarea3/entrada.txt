@@ -1,0 +1,13 @@
+cjaramil,universidad1,12
+ndecar,cafeteria2,10
+valarcon,cafeteria3,15
+nmarambio,cancha2,10
+cjaramil,cancha2,11
+kcossio,salaclases3,15
+ndecar,universidad1,12
+aibarra,almacen2,11
+valarcon,salaclases3,15
+ahevia,salaclases3,15
+kcossio,almacen2,11
+nmarambio,almacen2,12
+cjaramil,almacen2,12
